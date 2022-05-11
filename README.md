@@ -6,4 +6,4 @@ Made for 952 RCACS it is compact booklet to aide cadets when wearing and maintai
 
 # Download Latest PDF Below
 
-<a href="https://github.com/tomkap011/UniformHandbook/raw/main/Uniform%20Handbook.pdf">Handbook Latest</a>
+<a href="https://github.com/tomkap011/UniformHandbook/raw/main/Unifrom%20Handbook.pdf">Handbook Latest</a>
