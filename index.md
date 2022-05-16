@@ -1,15 +1,15 @@
 # Cadet Handbook
-A repository of information for 952 RCACS Cadets of usefull information
+A repository of information for 952 RCACS Cadets of useful information
 
 #### Quick Access Info
 
 #### Download the latest version(s)
-<a href="https://github.com/tomkap011/Cadet-Handbook/raw/main/Unifrom%20Handbook.pdf">Uniform Handbook</a>
+<a href="https://github.com/tomkap011/Cadet-Handbook/raw/publish/main/Unifrom%20Handbook.pdf">Uniform Handbook</a>
 
 
 #### Download Recourses
 
-<a href="https://github.com/tomkap011/Cadet-Handbook/raw/main/CJCR-Dress-Instructions.pdf">CJCR-Dress-Instructions</a>
+<a href="https://github.com/tomkap011/Cadet-Handbook/raw/main/raw-recouces/CJCR-Dress-Instructions.pdf">CJCR-Dress-Instructions</a>
 
 
 
